@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -7,7 +11,7 @@
 }
 
 .logo {
-    width: 300px;
+    width: 50%;
     padding: 5px;
     margin: 7px auto;   
     text-align: center;
