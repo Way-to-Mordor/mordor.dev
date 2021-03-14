@@ -1,13 +1,9 @@
-body {
-    display: table;
-    position: absolute;
-    height: 90%;
-    width: 90%;
-}
-    
-#container {
-    display: table-cell;
-    vertical-align: middle;
+.container {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
 }
 
 .logo {
